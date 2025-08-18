@@ -145,15 +145,15 @@ header.scrolled {
 }
 
 .logo-container h1 {
-    color: var(--primary-color);
+    color: var(--light-color);
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 1px;
 }
 
 .logo {
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     margin-right: 10px;
 }
 
@@ -173,7 +173,7 @@ nav {
 .nav-links {
     display: flex;
     align-items: center;
-    gap: 15px;
+    gap: 10px;
 }
 
 .nav-links li {
