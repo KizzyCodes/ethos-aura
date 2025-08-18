@@ -40,7 +40,7 @@ document.addEventListener('DOMContentLoaded', function() {
         {
             id: 1,
             title: "Classic Black jackets",
-            price: 40000,
+            price: 120000,
             image: "images/products/jackets.jpg",
             description: "Premium quality jackets for any occasion. Available in mutiple colors."
         },
