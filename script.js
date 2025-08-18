@@ -148,6 +148,13 @@ document.addEventListener('DOMContentLoaded', function() {
             price: 50000,
             image: "images/products/gymwear-male.jpg",
             description: "Perfect for the mens workout sessions"
+        },
+        {
+            id: 17,
+            title: "Sweat shirt",
+            price: 30000,
+            image: "images/products/sweatshirt.jpg",
+            description: "Stylish and comfortable sweatshirt for all seasons."
         }
     ];
 
