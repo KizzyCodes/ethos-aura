@@ -40,14 +40,14 @@ document.addEventListener('DOMContentLoaded', function() {
         {
             id: 1,
             title: "Classic Black jackets",
-            price: 120000,
+            price: 50000,
             image: "images/products/jackets.jpg",
             description: "Premium quality jackets for any occasion. Available in mutiple colors."
         },
         {
             id: 2,
             title: "Joggers",
-            price: 25000,
+            price: 30000,
             image: "images/products/joggers.jpg",
             description: "Comfortable and stylish Joggers. offered in variety of colors and size."
         },
